@@ -1,0 +1,16 @@
+{
+    "short_name": "PrepFire",
+    "name": "PrepFire - AI-Powered Coding Prep",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#00ffff",
+    "background_color": "#0f0f23",
+    "description": "Master coding interviews with AI-generated problems and personalized learning paths"
+  }
